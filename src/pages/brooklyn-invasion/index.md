@@ -1,0 +1,24 @@
+---
+title: "Why I'm Not Mad About The Brooklyn Invasion Of Portland"
+path: "/brooklyn-invasion/"
+date: "2016-06-11T08:49:08.000Z"
+date_updated:   2017-03-01T09:02:18.000Z
+tags: webdev, programming, javascript
+---
+The secret is out. Portland is amazing, and Brooklyn knows it. Not just Brooklyn but greater New York and Boston money have been flooding Portland for the last few years and its showing. Fancy modern condo buildings on every block of Munjoy Hill, skyrocketing rent prices, and homes selling for more than their already inflated asking price. Bearded hipsters and beautiful young women at all the new bars and restaurants buying 15 dollar cocktails from trained mixologists and eating spicy tuna served on.. slabs of raw tuna.
+
+![](http://rossimeacham.com/wp-content/uploads/2016/06/hipster-irony.jpg)
+
+But while the old guard of veteran Portlandians understandably yearn for the grittier days of the city they remember; while more and more people are displaced from the peninsula by the seemingly impossible ascent of the housing market; many of us who have ridden the gauntlet of the stagnant Maine economy for the past 10 or 20 years welcome this influx of money and youth and excitement into our fair city.
+
+Let's face some facts. A city either grows and evolves, or stagnates and falters. While we may be mourning the loss of some of our favorite institutional dives, watching in subdued horror as they're replaced by the latest trendy beer garden, the simple fact remains that without the vitality and financial influx offered by our hipper neighbors to the south, our city and state would continue to hold records like oldest and most un-business friendly. We simply cannot have a progressive future without accepting some change.
+
+![](http://rossimeacham.com/wp-content/uploads/2017/09/graffiti.jpg)
+
+Have you noticed how many new businesses are opening? How many breweries and coffee shops have sprung up in Bayside and near Anderson Street? How many hotels and apartment buildings have been built in the Old Port and on the east end? While the curmudgeonly 30 somethings who have been grinding it out playing cover songs for the last 15 years and living with six friends in oversized flop houses by USM bemoan the gentrification and not so secretly resent the moneyed tech friendly Brooklynites who came up to the secret city to start a family and live at a slower pace nearer to nature, they seem to be missing the simple fact that these newcomers are the economic engine that will propel this mini mecca into the future. We're all going to benefit from their presence if we learn how to tap into the vein they're running in.
+
+![](http://rossimeacham.com/wp-content/uploads/2016/06/portland-maine-cityscape-skyline-hdr-panorama-cropped-smaller.jpg)
+
+Look, I get it. I was at Occupy. I put in my time living paycheck to paycheck for longer than I care to admit. But when I look around Portland, I don't see a city I cannot recognize and identify with, I see opportunity. I see new jobs, new entrepreneurial ventures to start, and a base of people with real dollars to spend. For too long we've been sloughing by on just barely enough in this city and quite frankly I'm sick of it. I don't want to have to move to New York to make 80,000 dollars a year. I don't want to have to leave my home in order to have a career and build a financial base. I want to live in a Portland that is thriving and alive and growing, and if that means I have to put up with more triple latte frappacappawhateverthehells to do it then so be it. I see a city that is experiencing growing pains, but is headed in the right direction. And while it's on the radar, it hasn't fully exploded yet, and that means that there are plenty of opportunities to participate in its evolution. To guide it in a direction that works for all of us. I for one will be right here growing alongside the city I went to college in, became a man in - in the state that I was born in and intend to grow old in. And if the alternative is watching our state deteriorate while every financial opportunity goes elsewhere, then I will gladly accept the New York invasion.
+
+I know this will piss a lot of people off. But I'm a pragmatist and at the end of the day I want whats best for the whole state. And right now what we need is a steady stream of new money, new ideas, and new people to help Maine become a serious participant in the future of our country. Let's not get left behind. Let's welcome these folks with open arms - let's not alienate our fairer friends from the land of cool. Let's work with them to make a Maine that retains it's ideals of hard work and sticktoitiveness by sharing our home with these interesting and wealthy people who obviously came here for a reason. If we work together we can move forward without leaving anyone behind.
