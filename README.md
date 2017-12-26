@@ -1,8 +1,8 @@
-# kostasbariotis.com
+# rossimeacham.com
 
 This is my [personal blog](https://rossimeacham.com).
 
-![rossimeacham.com Screen shot](https://raw.githubusercontent.com/corradorossi/corradorossi.com/master/ss.png)
+![rossimeacham.com Screen shot](https://raw.githubusercontent.com/corradorossi/rossimeacham.com/master/ss.png)
 
 ## Setup
 
