@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     author: 'Rossi Meacham!',
     title: `Rossi Meacham's Blog`,
-    siteUrl: `https://rossimeacham.com`,
+    siteUrl: `https://blog.rossimeacham.com`,
     description: `I'm Rossi Meacham, a web developer, crypto junkie and enthusiastic doer of things. My mission is to write clean and efficient code, to solve problems on the web and to keep learning until I stop breathing.`
   },
   plugins: [
@@ -132,7 +132,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rossimeacham.com`,
+        siteUrl: `https://blog.rossimeacham.com`,
       }
     },
     {
