@@ -1,6 +1,6 @@
 # rossimeacham.com
 
-This is my [personal blog](https://rossimeacham.com).
+This is my [personal blog](https://blog.rossimeacham.com).
 
 ![rossimeacham.com Screen shot](https://raw.githubusercontent.com/corradorossi/rossimeacham.com/master/ss.png)
 
